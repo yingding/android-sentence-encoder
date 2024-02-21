@@ -1,2 +1,3 @@
-**/model.tflite 
+**/model.tflite
+**/saved-models/
 test.py
